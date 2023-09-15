@@ -23,7 +23,7 @@ This project can be used for custom object detection and counting in any manufac
 ## Working
 ## Making the conveyer belt:
 The conveyer belt used in this project is made at home using spare parts like an old spare motor, a broken headphone's headband, a bed table and some empty medicine bottles for the wheels of the conveyer belt.
-  <img src="https://github.com/stuti2403/Real-Time-Custom-Object-Detection-and-Counting-on-bespoke-conveyer-belt-using-YOLO-v8/blob/main/IMG_1.jpg"/>
+  <img src="https://github.com/Navtegh/Real-Time-Custom-Object-Detection-and-Counting-on-bespoke-conveyer-belt-using-YOLO-v8/blob/main/IMG_1.jpg"/>
  
 
 ## Training the model on custom dataset:
